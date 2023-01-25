@@ -1,0 +1,6 @@
+streamlit run "C:\Users\YADAV\OneDrive\Desktop\muti prediction\muti.py"
+
+
+
+
+        
